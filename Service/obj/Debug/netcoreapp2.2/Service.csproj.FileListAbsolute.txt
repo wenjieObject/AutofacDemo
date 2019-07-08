@@ -1,0 +1,12 @@
+D:\VSCode\Demo\AutofacDemo\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+D:\VSCode\Demo\AutofacDemo\Service\bin\Debug\netcoreapp2.2\Service.dll
+D:\VSCode\Demo\AutofacDemo\Service\bin\Debug\netcoreapp2.2\Service.pdb
+D:\VSCode\Demo\AutofacDemo\Service\bin\Debug\netcoreapp2.2\IService.dll
+D:\VSCode\Demo\AutofacDemo\Service\bin\Debug\netcoreapp2.2\IService.pdb
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.dll
+D:\VSCode\Demo\AutofacDemo\Service\obj\Debug\netcoreapp2.2\Service.pdb

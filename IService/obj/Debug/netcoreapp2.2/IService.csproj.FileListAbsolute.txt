@@ -6,3 +6,4 @@ D:\VSCode\Demo\AutofacDemo\IService\obj\Debug\netcoreapp2.2\IService.AssemblyInf
 D:\VSCode\Demo\AutofacDemo\IService\obj\Debug\netcoreapp2.2\IService.AssemblyInfo.cs
 D:\VSCode\Demo\AutofacDemo\IService\obj\Debug\netcoreapp2.2\IService.dll
 D:\VSCode\Demo\AutofacDemo\IService\obj\Debug\netcoreapp2.2\IService.pdb
+D:\VSCode\Demo\AutofacDemo\IService\obj\Debug\netcoreapp2.2\IService.csprojAssemblyReference.cache

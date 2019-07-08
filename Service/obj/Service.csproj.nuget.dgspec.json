@@ -10,23 +10,21 @@
         "projectUniqueName": "D:\\VSCode\\Demo\\AutofacDemo\\IService\\IService.csproj",
         "projectName": "IService",
         "projectPath": "D:\\VSCode\\Demo\\AutofacDemo\\IService\\IService.csproj",
-        "packagesPath": "C:\\Users\\B15228\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\B15228.PWGROUP\\.nuget\\packages\\",
         "outputPath": "D:\\VSCode\\Demo\\AutofacDemo\\IService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\B15228\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\B15228.PWGROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -63,23 +61,21 @@
         "projectUniqueName": "D:\\VSCode\\Demo\\AutofacDemo\\Service\\Service.csproj",
         "projectName": "Service",
         "projectPath": "D:\\VSCode\\Demo\\AutofacDemo\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\B15228\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\B15228.PWGROUP\\.nuget\\packages\\",
         "outputPath": "D:\\VSCode\\Demo\\AutofacDemo\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\B15228\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\B15228.PWGROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
